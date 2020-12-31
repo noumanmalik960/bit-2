@@ -1,0 +1,22 @@
+{
+  "name": "@bit/noumanjaved.first-collection.navbar",
+  "version": "0.0.2",
+  "homepage": "https://bit.dev/noumanjaved/first-collection/navbar",
+  "main": "dist/index.js",
+  "componentId": {
+    "scope": "noumanjaved.first-collection",
+    "name": "navbar",
+    "version": "0.0.1"
+  },
+  "dependencies": {
+    "react": "^17.0.1"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/react@1.0.21"
+    }
+  }
+}
